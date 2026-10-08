@@ -1,1 +1,7 @@
 stakeholder_id,name_or_role,organization,interest,influence,attitude,strategy,owner
+ST-01,Заступник декана з навчальної роботи (замовник),Деканат факультету,high,high,supporter,manage_closely,PM
+ST-02,Юрист академії з питань захисту персональних даних,Юридичний відділ академії,low,high,blocker,keep_satisfied,PM
+ST-03,Адміністратор інформаційної системи та баз даних,ІТ-служба академії,low,high,neutral,keep_satisfied,Dev
+ST-04,Інспектори деканату з роботи зі студентами (три працівниці),Деканат факультету,high,low,neutral,keep_informed,BA
+ST-05,Студенти денної та заочної форм навчання,Студентська спільнота факультету,high,low,supporter,keep_informed,BA
+ST-06,Старости навчальних груп факультету,Студентське самоврядування,low,low,supporter,monitor,QA
