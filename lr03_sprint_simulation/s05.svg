@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="220" viewBox="0 0 420 220">
   <rect width="400" height="200" x="10" y="10" rx="12" fill="#182430" stroke="#B57414" stroke-width="2"/>
-  <text x="25" y="42" fill="#EDAC42" font-family="monospace" font-size="15" font-weight="bold">S-05: ?????????? ??? ??????????</text>
+  <text x="25" y="42" fill="#EDAC42" font-family="monospace" font-size="15" font-weight="bold">S-05: Сповіщення про готовність</text>
   <line x1="25" y1="55" x2="395" y2="55" stroke="#2A3947" stroke-width="1"/>
-  <text x="25" y="90" fill="#E8EEF3" font-family="sans-serif" font-size="13">1. ??????? ?????? ?????? ?? ??????</text>
-  <text x="25" y="130" fill="#E8EEF3" font-family="sans-serif" font-size="13">2. Push-???????????? ? Telegram</text>
-  <text x="25" y="170" fill="#69BD8C" font-family="sans-serif" font-size="13" font-weight="bold">3. ?????: ???????? ? ???. 204 (10:00-16:00)</text>
+  <text x="25" y="90" fill="#E8EEF3" font-family="sans-serif" font-size="13">1. Деканат змінює статус на Готово</text>
+  <text x="25" y="130" fill="#E8EEF3" font-family="sans-serif" font-size="13">2. Push-повідомлення у Telegram</text>
+  <text x="25" y="170" fill="#69BD8C" font-family="sans-serif" font-size="13" font-weight="bold">3. Екран: Заберіть у каб. 204 (10:00-16:00)</text>
 </svg>
