@@ -55,6 +55,7 @@ v_5_6 = [int(r['points_done']) for r in rows if int(r['sprint']) in (5, 6)]
 for name, v in [('Усі 12 спринтів', v_all), ('Спринти 1 і 2', v_1_2), ('Спринти 5 і 6', v_5_6)]:
     p50, p85 = simulate_monte_carlo(v, remaining_points=220, simulations=10000, seed=42)
     print(f'{name}: P50={p50}, P85={p85}, інтервал={p85 - p50}')
+```
 
 ## 3. Дві дати першого релізу
 
