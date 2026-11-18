@@ -5,3 +5,7 @@ ST-03,Адміністратор інформаційної системи та 
 ST-04,Інспектори деканату з роботи зі студентами (три працівниці),Деканат факультету,high,low,neutral,keep_informed,BA
 ST-05,Студенти денної та заочної форм навчання,Студентська спільнота факультету,high,low,supporter,keep_informed,BA
 ST-06,Старости навчальних груп факультету,Студентське самоврядування,low,low,supporter,monitor,QA
+ST-07,PM (я),Команда проєкту,high,high,supporter,manage_closely,PM
+ST-08,BA (бізнес-аналітик),Команда проєкту,high,low,supporter,keep_informed,PM
+ST-09,Dev (розробник),Команда проєкту,high,low,supporter,keep_informed,PM
+ST-10,QA (інженер з якості),Команда проєкту,high,low,supporter,keep_informed,PM
