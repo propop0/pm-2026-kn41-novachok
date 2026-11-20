@@ -1,1 +1,5 @@
 role,fte,hours,rate,source,note
+PM,0.5,400,520,https://dou.ua/lenta/articles/salary-report-devs-winter-2026/,Ставка на 13% вища за Dev через персональну відповідальність за критичний шлях і бюджет
+BA,1.0,800,410,https://dou.ua/lenta/articles/salary-report-devs-winter-2026/,Ставка на 11% нижча за Dev відповідно до медіани бізнес-аналітиків рівня Middle в огляді DOU
+Dev,2.0,1600,460,https://dou.ua/lenta/articles/salary-report-devs-winter-2026/,Два розробники повної зайнятості (100% + 100%) за базовою ставкою Python-розробника
+QA,0.5,400,340,https://dou.ua/lenta/articles/salary-report-devs-winter-2026/,Ставка на 26% нижча за Dev відповідно до пропорції General QA проти Back-end розробника в огляді DOU
